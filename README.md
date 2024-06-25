@@ -9,6 +9,10 @@ It reduces the matrix storage overhead and supports continuous memory access and
 This work integrate DBSR into the zero-fill ILU (ILU(0)) preconditioner to effectively support the implementation of a vectorized ILU(0) algorithm. 
 ILU(0) is one of the most widely used preconditioners. The DBSR strategy is applicable in both the LU factorization phase and the smoothing phase.
 
+### Paper Information
+
+**[DBSR: An Efficient Storage Format for Vectorized Sparse Triangular Solvers on Structured Grids](). **SC 2024**
+
 ### Default
 
 DBSR is based on a block multi-color parallelism strategy to vectorize and reorder parallelizable blocks. 
