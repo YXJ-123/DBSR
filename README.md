@@ -11,7 +11,7 @@ ILU(0) is one of the most widely used preconditioners. The DBSR strategy is appl
 
 ### Paper Information
 
-[DBSR: An Efficient Storage Format for Vectorizing Sparse Triangular Solvers on Structured Grids](). **SC 2024**
+[DBSR: An Efficient Storage Format for Vectorizing Sparse Triangular Solvers on Structured Grids](https://doi.org/10.1109/SC41406.2024.00065). **SC 2024**
 
 ### Default
 
@@ -41,5 +41,5 @@ will execute the program, where `-n` is used to determine the sacle of the 3D gr
 
 ### Note
 
-We will keep these files and datas maintained. Please contact me if there are any new findings in the testing.
+We will keep these files and datas maintained. Please contact me (Xiaojian Yang: 1724925160@qq.com) if there are any new findings in the testing.
 
